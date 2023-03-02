@@ -5,6 +5,14 @@ Modification of the original gksu binaries for distros that no longer have the o
 
 Tested in Ubuntu 22.04 LTS.
 
+Installer package created in .tar.xz format with all resources
+
+The Installer package (gksu_revived_install_package.tar.xz) have all .deb files splited
+
+The full deb package (gksu_2.0.2-9ubuntu1_amd64_by_bremaya_full.deb) have all packages merged
+
+Online Installer and Uninstaller (chmod + x online_installer.sh online_uninstaller.sh) and "Run as program"
+
 Any problems mail to > bremaya@gmail.com
 
 By bremaya @bremaya2 https://twitter.com/bremaya2 https://facebook.com/bremaya2 https://instagram.com/bremaya2

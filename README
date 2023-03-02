@@ -1,0 +1,6 @@
+Package created by Breno Maia (bremaya) <bremaya@gmail.com>
+
+Simply unzip the file and run the "install.sh" file.
+To uninstall use the "uninstall.sh" file.
+
+In Ubuntu 22.04 LTS use the "Run as program" command by right clicking on the "install.sh" or "uninstall.sh" files.

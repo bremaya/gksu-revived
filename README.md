@@ -11,6 +11,11 @@ The full deb package (gksu_2.0.2-9ubuntu1_amd64_by_bremaya_full.deb) have all .d
 
 Online Installer and Uninstaller (chmod + x online_installer.sh online_uninstaller.sh) and "Run as program" 
 or execute this command in a terminal (without quotes):
+
+Install:
+"curl -L -o /tmp/online_installer.sh https://github.com/bremaya/gksu-revived/releases/download/gksu-revived/online_installer.sh ; source /tmp/online_installer.sh ;  rm /tmp/online_installer.sh"
+
+Uninstall:
 "curl -L -o /tmp/online_uninstaller.sh https://github.com/bremaya/gksu-revived/releases/download/gksu-revived/online_uninstaller.sh ; source /tmp/online_uninstaller.sh ;  rm /tmp/online_uninstaller.sh"
 
 Any problems mail to > bremaya@gmail.com

@@ -14,11 +14,11 @@ or execute this command in a terminal:
 
 Install:
 
-wget -L -o /tmp/gksu-revived_online_installer.sh https://github.com/bremaya/gksu-revived/releases/download/gksu-revived/online_installer.sh ; source /tmp/gksu-revived_online_installer.sh ;  rm /tmp/gksu-revived_online_installer.sh
+wget -L -o /tmp/gksu-revived_online_installer.sh https://github.com/bremaya/gksu-revived/releases/download/gksu-revived/gksu-revived_online_installer.sh ; source /tmp/gksu-revived_online_installer.sh ;  rm /tmp/gksu-revived_online_installer.sh
 
 Uninstall:
 
-wget -L -o /tmp/gksu-revived_online_uninstaller.sh https://github.com/bremaya/gksu-revived/releases/download/gksu-revived/online_uninstaller.sh ; source /tmp/gksu-revived_online_uninstaller.sh ;  rm /tmp/gksu-revived_online_uninstaller.sh
+wget -L -o /tmp/gksu-revived_online_uninstaller.sh https://github.com/bremaya/gksu-revived/releases/download/gksu-revived/gksu-revived_online_uninstaller.sh ; source /tmp/gksu-revived_online_uninstaller.sh ;  rm /tmp/gksu-revived_online_uninstaller.sh
 
 Any problems mail to > bremaya@gmail.com
 

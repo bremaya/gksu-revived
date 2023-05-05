@@ -13,4 +13,5 @@ wget -O install.sh https://raw.githubusercontent.com/bremaya/gksu-revived/main/i
 source install.sh ; 
 rm -r /tmp/gksu-revived-amd64 ; 
 echo Installation complete!
-read -n 1 -s -r -p "Press any key to exit..."
+read -n 1 -s -r -p "Press any key to exit...
+"

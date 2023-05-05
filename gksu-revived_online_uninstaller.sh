@@ -3,7 +3,7 @@
 echo Start uninstallation...
 mkdir /tmp/gksu-revived-amd64 ; 
 cd /tmp/gksu-revived-amd64 ; 
-wget -o uninstall.sh https://raw.githubusercontent.com/bremaya/gksu-revived/main/uninstall.sh ; 
+wget -O uninstall.sh https://raw.githubusercontent.com/bremaya/gksu-revived/main/uninstall.sh ; 
 source uninstall.sh ; 
 rm -r /tmp/gksu-revived-amd64 ; 
 echo Uninstallation complete!

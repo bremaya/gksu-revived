@@ -1,4 +1,6 @@
 # gksu Revived
+Only work in Ubuntu Xorg Session 
+
 Graphical front-end to su and sudo revived for distros that no longer have in their repositories.
 
 Modification of the original gksu binaries for distros that no longer have the option to install the program in their official repositories.
